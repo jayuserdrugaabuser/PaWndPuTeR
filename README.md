@@ -3,5 +3,5 @@ an innovative tool developed for ethical testing and exploration of WiFi network
 It's compatible with Cardputer, Atoms3, Fire, core2. 
 You can scan, monitor, and interact with WiFi networks in a controlled environment. 
 This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
-i added a wifi bruteforce function currently not working right any help woud be helpfull
+i added a wifi bruteforce function really a dic-attack using password list
 a great firmware to be moddded for your own doing an learning by GH0$T
